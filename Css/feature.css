@@ -1,0 +1,34 @@
+
+.feature {
+    margin-top: 148px;
+}
+
+.feature__content {
+    display: flex;
+    justify-content: center;
+}
+
+.feature__box {
+    text-align: center;
+    width: 325px;
+    margin: 0 20px;
+
+}
+
+.feature__title {
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 18px;
+    text-align: center;
+    color: #212B31;
+    margin-top: 20px;
+}
+
+.feature__description {
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 16px;
+    text-align: center;
+    color: #72787D;
+    margin-top: 10px;
+}

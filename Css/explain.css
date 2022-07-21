@@ -1,0 +1,117 @@
+.explain {
+    margin-top: 78.28px;
+}
+
+.explain__content {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+.explain__title {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 48px;
+    text-align: center;
+    color: #212B31;
+}
+
+.explain__description {
+    align-self: center;
+    width: 827px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    text-align: center;
+    margin-top: 10px;
+    color: #72787D;
+}
+
+.explain__box1 {
+    display: flex;
+    align-items: center;
+}
+
+.explain__text {
+    margin-top: 19px;
+}
+
+.explain__subtitle {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    color: #212B31;
+    margin-left: 101px;
+    margin-top: 131px;
+}
+
+.explain__text {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #72787D;
+    margin-right: 91px;
+    width: 500px;
+}
+
+.explain__box2 {
+    display: flex;
+    align-items: center;
+}
+
+.explain__text2 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #72787D;
+    margin-left: 101px;
+    width: 500px;
+}
+
+
+.explain__subtitle1 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    color: #212B31;
+    margin-right: 139px;
+}
+
+.explain__block {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.explain__2builders__icon {
+    margin-top: 130px;
+}
+
+.explain__woman__icon {
+    margin-top: 154px;
+}
+
+.explain__subtitle3 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    color: #212B31;
+    margin-right: 84px;
+    margin-top: 119px;
+
+}

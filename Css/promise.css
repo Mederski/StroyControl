@@ -1,0 +1,50 @@
+.promise__title {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 48px;
+    text-align: center;
+    color: #212B31;
+    margin-top: 144px;
+    margin: 0 auto;
+}
+
+.promise {
+    margin-top: 144px;
+}
+
+.promise__subtitle {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 48px;
+    color: #212B31;
+}
+
+.promise__description {
+    margin-top: 16px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    color: #72787D;
+}
+
+.promise__link {
+    margin-top: 28px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    color: #212B31;
+    position: relative;
+}
+
+.promise__sector {
+    display: flex;
+    margin-top: 168px;
+}

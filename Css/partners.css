@@ -1,0 +1,10 @@
+.partners {
+    margin-top: 71px;
+}
+
+.partners__content {
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: space-around;
+}
+
