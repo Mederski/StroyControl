@@ -71,9 +71,9 @@
 
 .security__footer {
     display: flex;
-    align-items:center;
+    align-items: center;
     margin-top: 62px;
-    
+
 }
 
 .security__footer_title {
@@ -103,9 +103,15 @@
     border-radius: 4px;
     padding: 13px 25px;
     cursor: pointer;
-   
+
 }
+
 .security__footer_btn:hover {
-    color:#FFFFFF;;
+    color: #FFFFFF;
     background-color: #212B31;
+}
+
+.security__footer {
+    background: #F6F8F9;
+    border-radius: 5px;
 }

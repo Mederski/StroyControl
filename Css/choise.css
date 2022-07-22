@@ -1,0 +1,144 @@
+.choise {
+    margin-top: 136px;
+}
+
+.choise__container {
+    width: 1156px;
+    margin: 0 auto;
+}
+
+.choise__title {
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 32px;
+    text-align: center;
+    color: #212B31;
+}
+
+.choise__description {
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 20px;
+    text-align: center;
+    color: #212B31;
+}
+
+.choise__column {
+    display: flex;
+    flex-direction: column;
+    /* justify-content: space-between; */
+    /* width: 458px; */
+    /* height: 538px; */
+}
+
+.choise__column_title {
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 18px;
+    color: #212B31;
+}
+
+.choise__column_text {
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 16px;
+    color: #72787D;
+
+}
+
+.choise__column_logo {
+    margin-right: 16px;
+    padding-top: 13px;
+    align-self: flex-start;
+}
+
+.choise__column_box {
+    display: flex;
+    width: 458px;
+}
+
+.choise__content_block {
+    display: flex;
+    justify-content: space-between;
+}
+
+.swiper {
+    position: relative;
+
+}
+
+.swiper__white {
+    background: #F6F8F9;
+    border-radius: 5px;
+    margin-left: 78px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.swiper__aqua {
+    background: aqua;
+    border-radius: 5px;
+    margin-left: 78px;
+    display: flex;
+    flex-direction: column;
+}
+
+.swiper__white_block {
+    padding-left: 46px;
+    width: 481px;
+}
+
+
+.choise__swiper_text {
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 30px;
+    color: #212B31;
+    width: 435px;
+    margin: 60px auto 0;
+
+}
+
+.choise__swiper_name {
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 16px;
+    color: #212B31;
+    margin-bottom: -19px;
+}
+
+.choise__swiper_info {
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 16px;
+    color: #72787D;
+
+}
+
+
+
+.choise__swiper_block {
+position: relative;
+    margin-top: 28px;
+    /* display: flex; */
+}
+
+
+
+.choise__swiper_img {
+    position: absolute;
+    left: 104px;
+    top: 23px;
+}
+
+.swiper-pagination {
+    /* text-align: start; */
+    top: 400px;
+   
+   
+}
+.otdelniy_block {
+    display: flex;
+    padding-bottom: 50px;
+}

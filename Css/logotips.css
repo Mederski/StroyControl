@@ -1,0 +1,37 @@
+.logotips {
+    margin-top: 127px;
+}
+
+.logotips__content {
+    width: 672px;
+    margin: 0 auto;
+}
+
+.logotips__block {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logotips__box {
+    width: 164px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.logotips__box_footer {
+    width: 164px;
+    display: flex;
+    flex-direction: column;
+    margin: 41px auto;
+    justify-content: space-between;
+}
+
+.logotips__box_text {
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 16px;
+    text-align: center;
+    color: #72787D;
+}

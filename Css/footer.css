@@ -1,0 +1,115 @@
+.footer {
+    margin-top: 150px;
+}
+
+.footer__df {
+    display: flex;
+    align-items: center;
+}
+
+.footer__block {
+    width: 221px;
+}
+
+.footer__header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer__logo {
+    width: 22px;
+    height: 33px;
+}
+
+.footer__title {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-transform: uppercase;
+    color: #212B31;
+}
+
+.footer__city {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #72787D;
+    margin-top: 22px;
+}
+
+.footer__description {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #72787D;
+    margin-top: -10px;
+}
+
+.footer__address {
+    margin-top: -20px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    color: #72787D;
+}
+
+.footer__name {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    color: #72787D;
+    margin-top: 22px;
+}
+
+.footer__info {
+    margin-top: 10px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #72787D;
+}
+
+.footer__facebook {
+    margin-top: 20px;
+}
+
+.footer__line {
+    height: 1px;
+    background: #DADEDF;
+    margin-top: 160.12px;
+}
+.footer__footer {
+    margin-top: 31.87px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer__security {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+      color: #72787D;
+}
+
+.footer__private {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+      color: #72787D;
+}
