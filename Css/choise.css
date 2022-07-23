@@ -67,6 +67,10 @@
 
 }
 
+.choise__swiper_photo {
+    margin-right: 8px;
+}
+
 .swiper__white {
     background: #F6F8F9;
     border-radius: 5px;
